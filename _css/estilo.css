@@ -12,3 +12,8 @@
 .parceiros{
     background-color: rgba(94, 94, 158, 0.411);
 }
+.bg-footer{
+    background-color: Black;
+    color: white;
+    padding-top: 0;
+}
